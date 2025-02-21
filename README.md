@@ -1,3 +1,3 @@
 # my-first-project
 
-This is Sparta
+This is my first project
